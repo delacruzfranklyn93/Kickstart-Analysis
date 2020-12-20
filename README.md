@@ -1,2 +1,2 @@
 # Kickstart-Anlalysis-
-# Excel Analysis Kickstarter Campaign plus summary of conlusions 
+# Excel Analysis of Kickstarter Campaigns plus conclusions drawn from Analysis
